@@ -4,10 +4,10 @@
   res.status(200).json({ name: 'John Doe' })
 } */
 
-import dbConnect from '../../utils/dbConnect';
+// import dbConnect from '../../utils/dbConnect';
 
-dbConnect();
+// dbConnect();
 
-export default async (req, res) => {
-  res.json({ test: 'Hello world' });
-}
+// export default async (req, res) => {
+//   res.json({ test: 'Hello world' });
+// }
