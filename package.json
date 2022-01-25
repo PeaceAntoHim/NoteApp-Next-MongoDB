@@ -1,19 +1,23 @@
 {
   "name": "notes-app",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "next": "12.0.8",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "isomorphic-unfetch": "^3.0.0",
+    "mongoose": "^5.9.6",
+    "next": "^9.3.6",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2"
   },
-  "devDependencies": {
-    "eslint": "8.7.0",
-    "eslint-config-next": "12.0.8"
-  }
+  "main": "index.js",
+  "repository": "https://github.com/rivera1294/next-mongodb.git",
+  "author": "PeaceAntoHim <stefanusfranssebastian@gmail.com>",
+  "license": "MIT"
 }

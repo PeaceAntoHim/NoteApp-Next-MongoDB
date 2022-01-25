@@ -1,5 +1,5 @@
 module.exports = {
     env: {
-      MONGO_URI: "mongodb+srv://Frans_Sebastian:91ig0kLRCMv8DdAt@cluster0.arrdi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+        MONGO_URI: "mongodb+srv://Frans_Sebastian:nbbDhuu0eHOP89cg@cluster0.arrdi.mongodb.net/myFirstDatabase?retryWrites=true&w=majorit"
     }
 }
